@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralAlgoth", "SpiralAlgoth\SpiralAlgoth.csproj", "{D291BCE7-298A-4F7A-B2FA-2275888A9D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralAlgothm.Test", "SpiralAlgothm.Test\SpiralAlgothm.Test.csproj", "{E6132158-9CA0-475B-B7EA-35C8EEB54F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D291BCE7-298A-4F7A-B2FA-2275888A9D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D291BCE7-298A-4F7A-B2FA-2275888A9D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D291BCE7-298A-4F7A-B2FA-2275888A9D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D291BCE7-298A-4F7A-B2FA-2275888A9D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6132158-9CA0-475B-B7EA-35C8EEB54F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6132158-9CA0-475B-B7EA-35C8EEB54F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6132158-9CA0-475B-B7EA-35C8EEB54F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6132158-9CA0-475B-B7EA-35C8EEB54F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F400B0-EB6D-4D5F-AC2D-40BDC71D2229}
+	EndGlobalSection
+EndGlobal
